@@ -89,7 +89,6 @@ func main() {
 	}
 	fmt.Println(t.Name)
 }
-}
 ```
 
 ## Contribution
